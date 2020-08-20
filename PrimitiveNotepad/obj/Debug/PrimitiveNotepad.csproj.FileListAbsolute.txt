@@ -1,0 +1,10 @@
+C:\Users\Peťa\source\repos\PrimitiveNotepad\PrimitiveNotepad\bin\Debug\PrimitiveNotepad.exe.config
+C:\Users\Peťa\source\repos\PrimitiveNotepad\PrimitiveNotepad\bin\Debug\PrimitiveNotepad.exe
+C:\Users\Peťa\source\repos\PrimitiveNotepad\PrimitiveNotepad\bin\Debug\PrimitiveNotepad.pdb
+C:\Users\Peťa\source\repos\PrimitiveNotepad\PrimitiveNotepad\obj\Debug\PrimitiveNotepad.csprojAssemblyReference.cache
+C:\Users\Peťa\source\repos\PrimitiveNotepad\PrimitiveNotepad\obj\Debug\PrimitiveNotepad.Properties.Resources.resources
+C:\Users\Peťa\source\repos\PrimitiveNotepad\PrimitiveNotepad\obj\Debug\PrimitiveNotepad.csproj.GenerateResource.cache
+C:\Users\Peťa\source\repos\PrimitiveNotepad\PrimitiveNotepad\obj\Debug\PrimitiveNotepad.csproj.CoreCompileInputs.cache
+C:\Users\Peťa\source\repos\PrimitiveNotepad\PrimitiveNotepad\obj\Debug\PrimitiveNotepad.exe
+C:\Users\Peťa\source\repos\PrimitiveNotepad\PrimitiveNotepad\obj\Debug\PrimitiveNotepad.pdb
+C:\Users\Peťa\source\repos\PrimitiveNotepad\PrimitiveNotepad\obj\Debug\PrimitiveNotepad.PrimitiveNotepad.resources
